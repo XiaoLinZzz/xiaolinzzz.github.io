@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Lujie Ma [马鲁杰]"
   pronouns         : # example: "she/her"  
   bio              : "Final year Master of IT student @ University of Melbourne"

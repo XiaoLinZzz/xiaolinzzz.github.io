@@ -18,7 +18,7 @@ Research Experience
 - **Summer Research Project** at [AIML](https://www.adelaide.edu.au/aiml/), Nov 2022 - Feb 2023
   - Project Title: Weakly-supervised Semantic Image Segmentation + Human Guidance
   - Supervisor: [Dr. Zhibin Liao](https://researchers.adelaide.edu.au/profile/zhibin.liao)
-  - Objective: Achieve accurate image segmentation with minimal labeled data by combining weak supervision and human guidance for refinement.
+  - Achieve accurate image segmentation with minimal labeled data by combining weak supervision and human guidance for refinement.
   - Award: Summer Research Scholarship by AIML
 
 
@@ -29,11 +29,12 @@ Work Experience
   - Work with UI and PM in Agile environment, deliver numerous features that contributed to the revenue.
   - Participated in brainstorming sessions to generate new ideas and solutions.
   - Evaluated experimental results and ran scripts to analyze data and help to determine the effectiveness of changes.
+  - 🛠️ Tech: C#, ASP.NET, TypeScript, JavaScript, Data Analysis.
 
 
 - Software Engineer Intern at [Skand](https://www.skand.io/) in Melbourne, Nov 2021 - Feb 2022
-  - Developed a web application for a client to manage their business operations.
-  - Technologies: React, Node.js, Express, MongoDB, Docker, AWS.
+  -  Worked as a Full Stack Developer Intern at Skand, primarily focusing on enhancing front-end features and refactoring existing front-end modules, while also assisting the team with backend tasks.
+  - 🛠️ Tech: React, TypeScript, JavaScript, Front-End Design.
 
 
 Honors and Awards

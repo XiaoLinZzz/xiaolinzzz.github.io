@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-**Software Engineer Intern @[Microsoft](https://www.microsoft.com/en-au)** \
+**Software Engineer Intern  @[Microsoft](https://www.microsoft.com/en-au)** \
 **Nov 2023 - May 2024, Beijing**
 
   * Collaborated with UI/UX designers and product managers in an Agile environment, delivering numerous features that contributed to revenue growth.
@@ -34,10 +34,8 @@ Work experience
 **Summer Research Student @[AIML](https://www.adelaide.edu.au/aiml/)** \
 **Nov 2022 - Feb 2023, Adelaide**
   
-  * Project Title: Weakly-supervised Semantic Image Segmentation + Human Guidance
-  * **Supervisor:** [Dr. Zhibin Liao](https://researchers.adelaide.edu.au/profile/zhibin.liao)
-  * Achieved accurate image segmentation with minimal labeled data by combining weak supervision and human guidance for refinement.
-  * **Award:** Summer Research Scholarship by AIML
+  * Achieved accurate image segmentation with minimal labeled data by combining weak supervision and human guidance for refinement, supervised by [Dr. Zhibin Liao](https://researchers.adelaide.edu.au/profile/zhibin.liao) .
+  * Award: Summer Research Scholarship by AIML
   
 Languages
 ======

@@ -2,6 +2,7 @@
 title: "Totally-Looks-Like challenge"
 excerpt: "We measure the effectiveness of pretrained models and Siamese network. <br/><img src='/images/t_image.png' height='200'>"
 collection: projects
+date: 2023-09-03
 ---
 
 2023 Computer Vision Final Assignment @ The University of Melbourne

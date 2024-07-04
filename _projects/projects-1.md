@@ -2,6 +2,7 @@
 title: "Flower Classification"
 excerpt: "Developed a flower classification model to make accurate predictions. Ranked <strong>#5</strong> in Computer Vision course. <br/><img src='/images/fl_1.jpg' width='500'>"
 collection: projects
+date: 2022-06-22
 ---
 
 

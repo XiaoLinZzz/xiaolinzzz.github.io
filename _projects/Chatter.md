@@ -1,7 +1,8 @@
 ---
 title: "ChatterMap - React Native App"
 excerpt: "A fancy mobile app allows users can find the chatrooms around the Univeristy of Melbourne. <br/><img src='/images/chatter_logo.png' width='500'>"
-collection: portfolio
+collection: projects
+date: 2023-09-12
 ---
 
 <div style="display: flex; flex-direction: row; gap: 20px;">

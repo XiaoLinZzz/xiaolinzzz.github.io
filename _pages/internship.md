@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Internship"
-permalink: /internship/
+title: "Work Experience"
+permalink: /Work_Experience/
 author_profile: true
 ---
 
-## 📌 Software Engineer Intern at [Microsoft](https://www.microsoft.com/en-au) in Beijing
-**Nov 2023 - May 2024**
+## 🚀 Software Engineer Intern at [Microsoft](https://www.microsoft.com/en-au)
+**Nov 2023 - May 2024, Beijing**
 
 - Collaborated with UI/UX designers and product managers in an Agile environment, delivering numerous features that contributed to revenue growth.
 - Participated in brainstorming sessions to generate innovative ideas and solutions.
@@ -15,16 +15,16 @@ author_profile: true
 
 ---
 
-## 📌 Software Engineer Intern at [Skand](https://www.skand.io/) in Melbourne
-**Nov 2021 - Feb 2022**
+## 🚀 Software Engineer Intern at [Skand](https://www.skand.io/)
+**Nov 2021 - Feb 2022, Melbourne**
 
 - Worked as a Full Stack Developer Intern, primarily focusing on enhancing front-end features and refactoring existing modules, while also assisting the team with backend tasks.
 - 🛠️ **Tech Stack:** React, TypeScript, JavaScript, Front-End Design.
 
 ---
 
-## 📌 Summer Research Project at [AIML](https://www.adelaide.edu.au/aiml/) in  Adelaide
-**Nov 2022 - Feb 2023**
+## 🚀 Summer Research Student at [Australian Institute for Machine Learning (AIML)](https://www.adelaide.edu.au/aiml/)
+**Nov 2022 - Feb 2023, Adelaide**
 
 - **Project Title:** Weakly-supervised Semantic Image Segmentation + Human Guidance
 - **Supervisor:** [Dr. Zhibin Liao](https://researchers.adelaide.edu.au/profile/zhibin.liao)

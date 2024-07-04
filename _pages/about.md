@@ -15,7 +15,7 @@ He is interested in full-stack development and Human-Computer Interaction (HCI).
 
 Research Experience
 ======
-- **Summer Research Project** at [AIML](https://www.adelaide.edu.au/aiml/), Nov 2022 - Feb 2023
+- Summer Research Project at [AIML](https://www.adelaide.edu.au/aiml/), Nov 2022 - Feb 2023
   - Project Title: Weakly-supervised Semantic Image Segmentation + Human Guidance
   - Supervisor: [Dr. Zhibin Liao](https://researchers.adelaide.edu.au/profile/zhibin.liao)
   - Achieve accurate image segmentation with minimal labeled data by combining weak supervision and human guidance for refinement.

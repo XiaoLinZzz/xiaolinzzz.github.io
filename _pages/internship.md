@@ -16,7 +16,7 @@ author_profile: true
 ---
 
 ## 🚀 Software Engineer Intern at [Skand](https://www.skand.io/)
-**Nov 2021 - Feb 2022, Melbourne**
+**July 2023 - Oct 2023, Melbourne**
 
 - Worked as a Full Stack Developer Intern, primarily focusing on enhancing front-end features and refactoring existing modules, while also assisting the team with backend tasks.
 - 🛠️ **Tech Stack:** React, TypeScript, JavaScript, Front-End Design.

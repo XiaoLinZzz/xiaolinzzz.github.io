@@ -32,12 +32,14 @@ Work Experience
   - 🛠️ Tech: C#, ASP.NET, TypeScript, JavaScript, Data Analysis.
 
 
-- Software Engineer Intern at [Skand](https://www.skand.io/) in Melbourne, Nov 2021 - Feb 2022
+- Software Engineer Intern at [Skand](https://www.skand.io/) in Melbourne, July 2023 - Oct 2023
   -  Worked as a Full Stack Developer Intern at Skand, primarily focusing on enhancing front-end features and refactoring existing front-end modules, while also assisting the team with backend tasks.
   - 🛠️ Tech: React, TypeScript, JavaScript, Front-End Design.
 
 
 Honors and Awards
 ======
-- **One of four students** at UoA for an exchange program with [Fudan University](https://www.fudan.edu.cn/en/), 2021.
+- [COMP90049](https://handbook.unimelb.edu.au/2024/subjects/comp90049) & [COMP90086](https://handbook.unimelb.edu.au/2024/subjects/comp90086) student representative at University of Melbourne, 2023.
 - [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/) Summer Research Scholarship, 2022.
+- [CHIN3008](https://www.adelaide.edu.au/course-outlines/108076/1/sem-2/) academic tutor at University of Adelaide, 2022.
+- **One of four students** at UoA for an exchange program with [Fudan University](https://www.fudan.edu.cn/en/), 2021.

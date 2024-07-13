@@ -1,6 +1,6 @@
 ---
 title: "VR1Family Charity Aid Services Web Application"
-excerpt: "We create a web application which allows aid service  <br/><img src='/images/Aid_service.png' width='500'>"
+excerpt: "We developed a web application that enables aid services to efficiently manage kits, items, and recipient information. <br/><img src='/images/Aid_service.png' width='500'>"
 collection: projects
 date: 2023-07-03
 ---

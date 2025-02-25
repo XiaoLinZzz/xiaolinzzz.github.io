@@ -1,6 +1,6 @@
 ---
 title: "Management Platform for Cleaning Services"
-excerpt: "Led the development of a comprehensive cleaning service management platform using React Native for mobile, React.js for web portal. Implemented <b>real-time staff tracking</b>, <b>shift management</b>, and <b>automated reporting</b> features while collaborating with stakeholders through Figma-driven design process. <br/><img src='/images/manager_pj/cover.png' width='500'>"
+excerpt: "Led the development of a comprehensive cleaning service management platform using React Native for mobile, React.js for web portal. Implemented <b>real-time staff tracking</b>, <b>shift management</b>, and <b>automated reporting</b> features while collaborating with stakeholders through Figma-driven design process. <br/><img src='/images/manager_pj/Cover.png' width='500'>"
 collection: projects
 date: 2024-07-22
 ---
@@ -162,7 +162,7 @@ CP-REDBACK/
 Here are some examples of screenshots.
 
 <p align="center">
-  <img width="350" src="/images/manager_pj/cover.png" alt=""/> &nbsp;&nbsp;
+  <img width="350" src="/images/manager_pj/Cover.png" alt=""/> &nbsp;&nbsp;
   <img width="350" src="/images/manager_pj/account.png" alt=""/> &nbsp;&nbsp;
   <img width="350" src="/images/manager_pj/map.png" alt=""/> &nbsp;&nbsp;
   <img width="350" src="/images/manager_pj/report.png" alt=""/> &nbsp;&nbsp;
